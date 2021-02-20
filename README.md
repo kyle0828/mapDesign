@@ -1,4 +1,5 @@
 # Lab 4: Map Design and Tile Generation
+Link to hosted webmap: https://kyle0828.github.io/mapDesign/
 
 ## Tile 1 Screenshot - Modified Basemap
 ![Map Image](img/tile1.png)
